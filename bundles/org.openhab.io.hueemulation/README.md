@@ -202,6 +202,6 @@ In this case renaming items in Hue compatible Apps will fail.
 
 ```
 Switch  TestSwitch      "Kitchen Switch" [ "Switchable" ]    {channel="..."}
-Color   TestColorBulb   "Bathroom"       [ "ColorLighting" ] {channel="..."}
+Color   TestColorBulb   "Bathroom"       [ "Lighting" ] {channel="..."}
 Dimmer  TestDimmer      "Hallway"        [ "Lighting" ]      {channel="..."}
 ```
